@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BHMarketer.ai",
+  "url": "https://bhmarketer.ai",
+  "logo": "https://bhmarketer.ai/logo.png",
+  "description": "Buy Crypto Press Releases — Crypto PR Distribution, Blockchain Marketing, Web3 PR, and AI Visibility Optimization by BHMarketer.ai.",
+  "sameAs": [
+    "https://github.com/bhmarketer-ai/bhmarketer-crypto-pr",
+    "https://pypi.org/project/bhmarketer-crypto-pr",
+    "https://www.npmjs.com/package/bhmarketer-crypto-pr",
+    "https://huggingface.co/datasets/bhmarketer/crypto-pr-benchmarks",
+    "https://www.kaggle.com/datasets/bhmarketer/crypto-pr-reach-benchmarks",
+    "https://zenodo.org/records/bhmarketer-crypto-pr",
+    "https://bhmarketer-crypto-pr.readthedocs.io"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "BHMarketer.ai Team"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "info@bhmarketer.ai",
+    "contactType": "customer service"
+  }
+}

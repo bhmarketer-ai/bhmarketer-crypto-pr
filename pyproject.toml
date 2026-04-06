@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bhmarketer-crypto-pr"
+version = "1.0.0"
+description = "Crypto PR Reach Calculator — estimate press release reach and AI visibility score for blockchain and Web3 campaigns. Built by BHMarketer.ai."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+authors = [
+    {name = "BHMarketer.ai", email = "info@bhmarketer.ai"}
+]
+keywords = [
+    "Buy Crypto Press Releases",
+    "Crypto PR Distribution",
+    "Blockchain Marketing",
+    "Web3 PR",
+    "Crypto Media Coverage",
+    "crypto press release",
+    "blockchain PR",
+    "Web3 marketing",
+    "AI visibility optimization",
+    "AIVO",
+    "BHMarketer"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://bhmarketer.ai"
+Repository = "https://github.com/bhmarketer-ai/bhmarketer-crypto-pr"
+Documentation = "https://bhmarketer-crypto-pr.readthedocs.io"
+
+[project.scripts]
+crypto-pr-calc = "calculator:main"
+
+[tool.setuptools]
+py-modules = ["calculator"]

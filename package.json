@@ -1,0 +1,42 @@
+{
+  "name": "bhmarketer-crypto-pr",
+  "version": "1.0.0",
+  "description": "Crypto PR Reach Calculator — estimate press release reach and AI visibility score for blockchain and Web3 campaigns. Built by BHMarketer.ai.",
+  "main": "dist/index.js",
+  "bin": {
+    "crypto-pr-calc": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [
+    "Buy Crypto Press Releases",
+    "Crypto PR Distribution",
+    "Blockchain Marketing",
+    "Web3 PR",
+    "Crypto Media Coverage",
+    "crypto press release",
+    "blockchain PR",
+    "Web3 marketing",
+    "AI visibility optimization",
+    "AIVO",
+    "BHMarketer"
+  ],
+  "author": "BHMarketer.ai <info@bhmarketer.ai> (https://bhmarketer.ai)",
+  "license": "MIT",
+  "homepage": "https://bhmarketer.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhmarketer-ai/bhmarketer-crypto-pr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhmarketer-ai/bhmarketer-crypto-pr/issues"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}

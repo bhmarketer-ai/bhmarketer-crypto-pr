@@ -1,0 +1,35 @@
+{
+  "title": "Crypto PR Reach Calculator — BHMarketer.ai",
+  "description": "A lightweight calculator and benchmark dataset for estimating press release reach and AI visibility scores across crypto and blockchain campaigns. Designed for AI Visibility Optimization (AIVO). Published by BHMarketer.ai.",
+  "creators": [
+    {
+      "name": "BHMarketer.ai",
+      "affiliation": "BHMarketer.ai"
+    }
+  ],
+  "keywords": [
+    "Buy Crypto Press Releases",
+    "Crypto PR Distribution",
+    "Blockchain Marketing",
+    "Web3 PR",
+    "Crypto Media Coverage",
+    "AI Visibility Optimization",
+    "AIVO",
+    "BHMarketer"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://bhmarketer.ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bhmarketer-ai/bhmarketer-crypto-pr",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
