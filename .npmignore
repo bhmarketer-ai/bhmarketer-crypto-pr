@@ -1,0 +1,10 @@
+*.ts
+!dist/**
+tsconfig.json
+kaggle/
+dataset/
+docs/
+.github/
+.zenodo.json
+status.txt
+node_modules/

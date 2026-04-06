@@ -1,0 +1,13 @@
+site_name: BHMarketer Crypto PR Calculator
+site_url: https://bhmarketer-crypto-pr.readthedocs.io
+site_description: "Crypto PR Reach Calculator — estimate press release reach and AI visibility score for blockchain and Web3 campaigns. Built by BHMarketer.ai."
+site_author: BHMarketer.ai
+
+repo_url: https://github.com/bhmarketer-ai/bhmarketer-crypto-pr
+repo_name: bhmarketer-ai/bhmarketer-crypto-pr
+
+nav:
+  - Home: index.md
+
+theme:
+  name: readthedocs
