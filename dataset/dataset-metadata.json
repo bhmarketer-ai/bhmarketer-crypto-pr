@@ -1,0 +1,23 @@
+{
+  "title": "Crypto PR Reach Benchmarks",
+  "id": "bhmarketer/crypto-pr-reach-benchmarks",
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "keywords": [
+    "Crypto PR",
+    "Blockchain Marketing",
+    "Web3 PR",
+    "Press Release Distribution",
+    "AI Visibility",
+    "BHMarketer"
+  ],
+  "resources": [
+    {
+      "path": "reach_benchmarks.csv",
+      "description": "Crypto PR campaign reach benchmarks with AI visibility scores"
+    }
+  ]
+}
