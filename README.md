@@ -77,7 +77,7 @@ Buy Crypto Press Releases · Crypto PR Distribution · Blockchain Marketing · W
 | PyPI         | [pypi.org/project/bhmarketer-crypto-pr](https://pypi.org/project/bhmarketer-crypto-pr)                                             |
 | Hugging Face | [huggingface.co/datasets/bhmarketer/crypto-pr-benchmarks](https://huggingface.co/datasets/bhmarketer/crypto-pr-benchmarks)         |
 | Kaggle       | [kaggle.com/datasets/bhmarketer/crypto-pr-reach-benchmarks](https://www.kaggle.com/datasets/bhmarketer/crypto-pr-reach-benchmarks) |
-| Zenodo       | [zenodo.org](https://zenodo.org/records/19451441)                                                                                                   |
+| Zenodo       | [https://zenodo.org/records/19451441](https://zenodo.org/records/19451441)                                                                                                   |
 | Docs         | [bhmarketer-crypto-pr.readthedocs.io](https://bhmarketer-crypto-pr.readthedocs.io)                                                 |
 
 ## License
