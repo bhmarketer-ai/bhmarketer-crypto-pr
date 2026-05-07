@@ -79,7 +79,7 @@ Buy Crypto Press Releases · Crypto PR Distribution · Blockchain Marketing · W
 | Kaggle       | [kaggle.com/datasets/bhmarketer/crypto-pr-reach-benchmarks](https://www.kaggle.com/datasets/bhmarketer/crypto-pr-reach-benchmarks) |
 | Zenodo       | [https://zenodo.org/records/19451441](https://zenodo.org/records/19451441)                                                                                                   |
 | Docs         | [bhmarketer-crypto-pr.readthedocs.io](https://bhmarketer-crypto-pr.readthedocs.io)                                                 |
-
+| Quora | [BHMarketer AI](https://www.quora.com/profile/BHMarketer-AI) |
 ## License
 
 MIT — [BHMarketer.ai](https://bhmarketer.ai)
